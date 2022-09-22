@@ -1,0 +1,26 @@
+.a__pollItem img {
+    width: 160px;
+    height: 160px;
+}
+
+.a__pollItem_container  {
+    font-family: var(--font-family);
+}
+
+.a__pollItem_container-title {
+    font-family: var(--font-family);
+    font-size: bolder;
+    color: #007185;
+
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+
+    width: 160px;
+}
+
+.price {
+    font-weight: 190px;
+}

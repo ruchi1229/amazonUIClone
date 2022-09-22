@@ -1,0 +1,123 @@
+.a__footer {
+    height: auto;
+    background-color: var(--color-bgrd-light);
+}
+
+.a__footer_btt {
+    display: flex;
+    justify-content: center;
+
+    background-color: #37475A;
+
+    padding: 20px;
+}
+
+.a__footer_btt:hover {
+    background-color: #495564;
+}
+
+.a__footer_btt a p {
+    font-family: var(--font-family);
+    font-size: 13px;
+    color: #fff;
+
+    font-style: normal;
+}
+
+.a__footer_first {
+    display: flex;
+    justify-content: space-around;
+
+    font-family: var(--font-family);
+    color: #fff;
+
+    padding: 50px 100px;
+
+    border-bottom: 0.5px solid rgba(187, 187, 187, 0.286);
+}
+
+.a__footer_first p {
+    padding: 5px 0 5px 0;
+    font-size: small;
+
+    color: #ccc;
+}
+
+.a__footer_first h4 {
+    padding: 5px 0 5px 0;
+    font-weight: bold;
+
+    color: #fff;
+}
+
+.a__footer_second {
+    display: flex;
+    justify-content: center;
+}
+
+.a__footer_second img {
+    width: 78px;
+    height: 27px;
+
+    margin: 20px;
+}
+
+.a__footer_second button {
+    width: auto;
+    height: 27px;
+
+    margin: 20px;
+    padding: 5px 15px 5px 15px;
+
+    border: 1px solid #bbb;
+    border-radius: 3px;
+    background-color: transparent;
+
+    font-family: var(--font-family);
+    color: #ccc;
+
+}
+
+.a__footer_second button p {
+    font-family: var(--font-family);
+    color: #ccc;
+}
+
+.a__footer_last {
+    display: grid;
+    grid-template-columns: repeat(7,1fr);
+    grid-auto-rows: 50px;
+    grid-gap: 20px;
+    justify-content: center;
+    align-items: center;
+
+    background-color: var(--color-bgrd-dark);
+    padding: 30px 90px;
+
+    font-family: var(--font-family);
+}
+
+.a__footer_last_item_detail {
+    font-size: 10px;
+    color: #aaa;
+}
+
+.a__footer_last_item_title {
+    font-size: 11px;
+    color: #ddd;
+}
+
+.a__footer_last_info {
+    display: flex;
+    justify-content: center;
+
+
+    background-color: var(--color-bgrd-dark);
+}
+
+.a__footer_last_info a {
+    padding: 20px 10px;
+    font-family: var(--font-family);
+    font-size: 12px;
+    color: #ddd;
+}
