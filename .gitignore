@@ -2,5 +2,3 @@
 /amazon-backend/node_modules/**/*
 /amazon-proj/public/**/*
 .DS_Store
-/amazon-proj/**/*
-/amazon-backend/**/*
