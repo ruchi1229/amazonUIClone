@@ -19,11 +19,15 @@ Cloned Amazon UI to practice React JS, CSS and Javascript. Following are details
 `Get, Post`
 
 **Demo**
+<img width="1331" alt="Screen Shot 2022-10-18 at 12 32 49 PM" src="https://user-images.githubusercontent.com/114112179/196526859-9cb5586e-c79e-4a30-87d2-429a8559c6c3.png">
 
-<img width="1342" alt="Screen Shot 2022-10-18 at 12 17 47 PM" src="https://user-images.githubusercontent.com/114112179/196524153-51ff1855-246e-4bc7-90a0-6ba134aef9a2.png">
-<img width="1341" alt="Screen Shot 2022-10-18 at 12 18 19 PM" src="https://user-images.githubusercontent.com/114112179/196524209-c991bcbd-692a-4731-b9b9-a350246be3b9.png">
-<img width="1340" alt="Screen Shot 2022-10-18 at 12 18 45 PM" src="https://user-images.githubusercontent.com/114112179/196524273-67c4af78-0b15-4881-8ff1-3b56074d99cc.png">
+<img width="1333" alt="Screen Shot 2022-10-18 at 12 33 31 PM" src="https://user-images.githubusercontent.com/114112179/196526879-344d01e3-70bd-4251-9d07-c3bb4fe20d85.png">
+
+<img width="1333" alt="Screen Shot 2022-10-18 at 12 34 08 PM" src="https://user-images.githubusercontent.com/114112179/196526892-eabafa36-70c0-4d93-8baa-a394bc5116aa.png">
+
+
 <img width="1101" alt="Screen Shot 2022-10-18 at 12 22 58 PM" src="https://user-images.githubusercontent.com/114112179/196524720-220204c4-2c50-4ed6-9d5d-f453df574892.png">
+
 <img width="1343" alt="Screen Shot 2022-10-18 at 12 19 09 PM" src="https://user-images.githubusercontent.com/114112179/196524790-056f72f7-4091-470b-af31-c829565a1de7.png">
 
 
